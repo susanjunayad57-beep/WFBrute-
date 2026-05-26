@@ -1,6 +1,6 @@
 WFBRUTE – WIFI SECURITY TESTING TOOL (WINDOWS)
 
-WfBrute is a standalone Windows executable for authorized WiFi password auditing. It scans for WPA/WPA2‑PSK networks and performs brute‑force attacks using a wordlist.
+WfBrute [https://github.com/susanjunayad57-beep/WFBrute-/releases] is a standalone Windows executable for authorized WiFi password auditing. It scans for WPA/WPA2‑PSK networks and performs brute‑force attacks using a wordlist.
 
 •	⚠️ LEGAL NOTICE  
 
@@ -168,7 +168,7 @@ By using this tool, you agree that you are solely responsible for complying with
 The author does not condone unauthorized access to computer systems or networks.
 
 
-Download From 
+Download From https://github.com/susanjunayad57-beep/WFBrute-/releases
 
 
 
