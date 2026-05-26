@@ -20,13 +20,13 @@ Unauthorized access is illegal. The author assumes no liability.
 
 •	REQUIREMENTS AND DETAILS
 
-REQUIREMENTS	        DETAILS
+REQUIREMENTS	        DETAILS 
 
 OS	                  Windows 10/11 (64 Bits)
 
 PRIVILIGES	          Administrator Rights (Run As Administrator)
 
-WIFI ADAPTER	        Uses Your Built-In Wireless Adapter – No External Hardware Needed.
+WIFI ADAPTER	      Uses Your Built-In Wireless Adapter – No External Hardware Needed.
 
 
 
